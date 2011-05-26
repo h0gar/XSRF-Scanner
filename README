@@ -3,4 +3,4 @@ CSRF Wikipedia: en.wikipedia.org/wiki/Cross-site_request_forgery
 
 /!\
 -Only use against your own websites.
--Be aware that the scanner may damage your website, especially if you run is as an admin. So make a backup for running it or run it on a dumb installation.
+-Be aware that the scanner may damage your website, especially if you run is as an admin. So make a backup before running it or run it on a dumb setup.
